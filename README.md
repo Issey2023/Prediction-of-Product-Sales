@@ -16,8 +16,7 @@ For this dataset, there were 8523 rows and 12 columns.
 ## Methods
 ### Data Dictionary
 
-  ![image](https://github.com/FiyonaK/Prediction-of-Product-Sales/assets/138833676/3e87a722-7cda-4654-a884-33a9b1ba927e)
-
+![Uploading image.png…]()
 
 ## To prepare this data, the data was cleaned, and the following processes were performed:
 

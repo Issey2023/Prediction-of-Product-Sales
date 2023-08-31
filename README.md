@@ -1,7 +1,7 @@
 # Prediction-of-Product-Sales
 ## Analyzing Sales Data for Food Items Sold at Various Stores
 
-**Author**: Fiyona Kriel
+**Author**: Ismaa-eel Hendricks
 
 ### Business problem:
 
@@ -16,7 +16,7 @@ For this dataset, there were 8523 rows and 12 columns.
 ## Methods
 ### Data Dictionary
 
-![Uploading image.png…]()
+
 
 ## To prepare this data, the data was cleaned, and the following processes were performed:
 
